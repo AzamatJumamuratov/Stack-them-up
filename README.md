@@ -5,4 +5,8 @@ If you align a block perfectly, you’ll get a streak — and with it, a score m
 Test your reflexes and try not to miss.
 
 Press Escape to pause the game.</p>
+<h2>Installation instructions</h2>
+<p>Download the game archive and extract it to a convenient location using your preferred extraction tool.
+Open the extracted folder and run the .exe file to start the game.</p>
+
 ![image](https://github.com/user-attachments/assets/b258ff81-a749-417e-9285-854f8dcef2cd)
